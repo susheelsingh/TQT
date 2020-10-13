@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/paid_eFilingItReturn"
+            android:title="@string/drawer_paidefillItReturn" />
+        <item
+            android:id="@+id/paid_myEfillingReport"
+            android:title="@string/paid_myEfillingReport" />
+        <item
+            android:id="@+id/paid_profile"
+            android:title="@string/paid_profile"
+            />
+        <item
+            android:id="@+id/Paid_changePass"
+            android:title="@string/Paid_changePass" />
+
+        <item
+            android:id="@+id/paid_setting"
+            android:title="@string/paid_setting" />
+
+        <item
+            android:id="@+id/paid_transcationHis"
+            android:title="@string/paid_transcationHistory" />
+        <item
+            android:id="@+id/paid_referEarn"
+            android:title="@string/paid_referEarn" />
+        <item
+            android:id="@+id/paid_support"
+            android:title="@string/paid_support" />
+        <item
+            android:id="@+id/paid_faq"
+            android:title="@string/paid_faq" />
+        <item
+            android:id="@+id/paid_Logout"
+            android:title="@string/paid_logout" />
+
+    </group>
+
+</menu>

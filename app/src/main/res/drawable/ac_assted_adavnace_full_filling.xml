@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:innerRadius="@dimen/smaller_text_size"
+    android:thicknessRatio="@android:integer/config_longAnimTime">
+    <corners android:radius="4dp"/>
+    <solid android:color="@color/manual_data"/>
+</shape>

@@ -1,0 +1,275 @@
+<resources>
+    <string name="app_name">TheQuicktax</string>
+
+    //:::::::::::::::::::::::: Login ::::::::::::::::::::
+    <string name="text_login">Login</string>
+    <string name="text_FrogetPass">Forget Password ?</string>
+    <string name="textSignup">Don\'t have account ? Sign Up</string>
+    <string name="text_signup">SiginUp</string>
+    <string name="text_registerd">Enter Registered Email Id</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="commonOfficeName">Dunnock Software Services Pvt.Ltd.</string>
+
+    //:::::::::::: Forget Screen ::::::::::::::::
+    <string name="text_userAut">Customer Category Auth</string>
+
+    <string name="textEmail">Email</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="login">Login</string>
+    <string name="textCancel">Already have an account</string>
+    <string name="textForget">Forget Password</string>
+
+    //::::::::::: Sign Up Screen::::::::::::::::
+    <string name="Bt_calogin">CA Login</string>
+    <string name="Bt_TaxUser">Tax User</string>
+    <string name="Bt_Admin">Admin</string>
+    <string name="editTextName">Full Name</string>
+    <string name="editPassword">Password</string>
+    <string name="editTextConfirmPass">Password</string>
+    <string name="buttonSignup">Submit</string>
+    <string name="buttonSignup1">Signup</string>
+    <string name="text_profile">Profile</string>
+    <string name="textUserName">User Name</string>
+    <string name="edtUsername">User Name</string>
+    <string name="textUserEmail">User Email</string>
+    <string name="edtUserEmail">User Email</string>
+    <string name="textUserPhone">Mobile Number</string>
+    <string name="edtUserMobileNumber">Mobile Number</string>
+    <string name="text_contactUs">ContactUs</string>
+
+    //:::::::::::::::: DrawerContent Paiduser :::::::::::::::::
+    <string name="drawer_paidefillItReturn">E-Filling Your IT Return</string>
+    <string name="paid_myEfillingReport">My E-Filling Report</string>
+    <string name="paid_profile">Profile</string>
+    <string name="Paid_changePass">Change Password</string>
+    <string name="paid_setting">Setting</string>
+    <string name="paid_transcationHistory">Transaction History</string>
+    <string name="paid_referEarn">Refer&amp;Earn</string>
+    <string name="paid_support">Support</string>
+    <string name="paid_faq">FAQ</string>
+    <string name="paid_logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //::::::::::::::: Paiduser Profile::::::::::::::::::::::::::
+
+    <string name="text_Firstname">First Name<font fgcolor="red"> *</font></string>
+    <string name="edt_Firstname">First Name</string>
+    <string name="text_Middlename">Middle Name</string>
+    <string name="edt_Middlename">Middle Name</string>
+    <string name="text_Lastname">last Name<font fgcolor="red"> *</font></string>
+    <string name="edt_Lastname">Last Name</string>
+    <string name="textDob">DOB<font fgcolor="red"> *</font></string>
+    <string name="edt_Dob">mm/dd/yyy</string>
+    <string name="text_moblieNmuber">Mobile Number<font fgcolor="red"> *</font></string>
+    <string name="edt_moblieNmuber">Mobile Number</string>
+    <string name="text_Email">Email<font fgcolor="red"> *</font></string>
+    <string name="edt_Email">Email</string>
+    <string name="text_PanCardNumber">Pancard Number<font fgcolor="red"> *</font></string>
+    <string name="edt_PanCardNumber">Pancard Number</string>
+    <string name="text_AdharNumber">Adhar Number<font fgcolor="red"> *</font></string>
+    <string name="edt_AdharNumber">Adhar Number</string>
+    <string name="text_AlternateMobileNo">Alternate Mobile Number<font fgcolor="red"> *</font></string>
+    <string name="edt_AlternateMobileNo">Alternate Mobile Number</string>
+    <string name="text_Location">Location</string>
+    <string name="edt_Location">Location</string>
+    <string name="button_submit">Submit</string>
+
+    //::::::::::::::: Paiduser changes password::::::::::::::::::::::::::
+    <string name="text_OldPassword">Old Password<font fgcolor="red"> *</font></string>
+    <string name="edt_OldPassword">Old Password</string>
+    <string name="text_NewPassword">New Password<font fgcolor="red"> *</font></string>
+    <string name="edt_NewPassword">New Password</string>
+    <string name="text_ConfirmPassword">Confirm Password<font fgcolor="red"> *</font></string>
+    <string name="edt_onfirmPassword">Confirm Password</string>
+    <string name="textFillingReport">E-Filing Detail Report</string>
+
+    //::::::::::::::::::::::: E-Filing Detail Report ::::::::::::::::::::::::::::
+
+    <string name="text_FinancialYear">Financial Year</string>
+    <string name="text_FinancialYearValues">2019-2020</string>
+    <string name="text_PersonalDetail">Personal Detail</string>
+    <string name="text_Firstname1">First Name</string>
+    <string name="text_Lastname1">last Name</string>
+    <string name="textDob1">Date of Birth</string>
+    <string name="tex_gender">Gender</string>
+    <string name="edt_gender">Male</string>
+    <string name="text_moblieNmuber1">Mobile Number</string>
+    <string name="text_Email1">Email</string>
+    <string name="text_PanCardNumber1">Pancard Number</string>
+    <string name="text_AdharNumber1">Adhar Number</string>
+    <string name="text_ResidentialStatus">Residential Status</string>
+    <string name="edt_ResidentialStatus">Residential Status</string>
+    <string name="text_EmployerType">Employer Type</string>
+    <string name="edt_EmployerType">Private Sector </string>
+    <string name="text_Address">Address</string>
+
+    <string name="text_State">State</string>
+    <string name="edt_State">KARANATAKA</string>
+    <string name="text_District">Address</string>
+    <string name="edt_District">Pune</string>
+    <string name="text_City">City</string>
+    <string name="edt_City">Indore</string>
+    <string name="text_Address1">Address</string>
+    <string name="edt_Address">D-43 Mangle Nagar indore</string>
+    <string name="text_PinCode">Pin Code</string>
+    <string name="text_BankDetails">Bank Details</string>
+    <string name="edt_PinCode">Pin Code</string>
+    <string name="text_BankName">Bank Name</string>
+    <string name="edt_BankName">Canra</string>
+    <string name="text_AccountNumber">Account Number</string>
+    <string name="edt_AccountNumber">318474282</string>
+    <string name="text_Branch">Branch</string>
+    <string name="edt_Branch">Pune</string>
+    <string name="text_IFSCCode">IFSC Code</string>
+    <string name="edt_IFSCCode">122345028363</string>
+
+
+    <string name="text_Source">Source of Income</string>
+    <string name="text_SalaryPension">Salary Pension</string>
+    <string name="text_Business">Business</string>
+    <string name="text_HouseProperty">House Property</string>
+    <string name="text_OtherSources">Other Sources</string>
+
+    <string name="text_InsvementandDectuct">Investement &amp; Deductions</string>
+    <string name="text_Section80C">Section 80C</string>
+    <string name="edt_Section80C">0</string>
+    <string name="text_Section80CCD">Section 80CCD</string>
+    <string name="edt_Section80CCD">0</string>
+    <string name="text_Section80D">Section 80D</string>
+    <string name="edt_Section80D">0</string>
+    <string name="text_Section80E">Section 80E</string>
+    <string name="edt_Section80E">0</string>
+    <string name="text_Section80GG">Section 80GG</string>
+    <string name="edt_Section80GG">0</string>
+    <string name="text_Section24B">Section 24B</string>
+    <string name="edt_Section24B">0</string>
+    <string name="text_Section80TTB">Section 80TTB</string>
+    <string name="edt_Section80TTB">0</string>
+
+
+    <string name="text_Documents">Documents</string>
+    <string name="text_Pancard">PAN CARD</string>
+    <string name="text_AdharCard">Aadhar Card</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    //::::::::::::::::::::::: e-Filing Your IT Return ::::::::::::::::::::::::::::
+    <string name="text_FilingYourITReturn">e-Filing Your IT Return</string>
+    <string name="text_YourDetails">Your Details</string>
+    <string name="text_SelectYourFinancialYear">Select Your Financial Year</string>
+    <string name="text_FinancialYear2019">2019-2020</string>
+    <string name="text_FinancialYear2018">2018-2019</string>
+    <string name="text_FinancialYear2017">2017-2018</string>
+    <string name="text_SelectYourAssessmentYear">Select Your Assessment Year</string>
+    <string name="text_AssessmentYear2020">2020 to 21</string>
+    <string name="text_AssessmentYear2019">2019 to 20</string>
+    <string name="text_AssessmentYearr2018">2018 to 19</string>
+    <string name="text_ResidentialStatus1">Residential Status<font fgcolor="red"> *</font></string>
+    <string name="text_EmployerType1">Employer Type<font fgcolor="red"> *</font></string>
+    <string name="tex_gender1"><font fgcolor="red"> *</font>Gender</string>
+
+    <string name="text_State1">State<font fgcolor="red"> *</font></string>
+    <string name="text_District1">Address<font fgcolor="red"> *</font></string>
+    <string name="text_City1">City<font fgcolor="red"> *</font></string>
+    <string name="text_Address2">Address<font fgcolor="red"> *</font></string>
+    <string name="text_PinCode1">Pin Code<font fgcolor="red"> *</font></string>
+    <string name="text_BankDetails1">Bank Details<font fgcolor="red"> *</font></string>
+    <string name="text_BankName1">Bank Name<font fgcolor="red"> *</font></string>
+    <string name="text_AccountNumber1">Account Number<font fgcolor="red"> *</font></string>
+    <string name="text_Branch1">Branch<font fgcolor="red"> *</font></string>
+    <string name="text_IFSCCode1">IFSC Code<font fgcolor="red"> *</font></string>
+    <string name="button_next">Next</string>
+
+    //::::::::::::::::::::::: Paid Support User ::::::::::::::::::::::::::::
+    <string name="text_TransactionRefNumber">Transaction Ref. Number <font fgcolor="red"> *</font></string>
+    <string name="edt_TransactionRefNumber">Transaction Ref. Number</string>
+    <string name="text_YourQuiries">Your Queries<font fgcolor="red"> *</font></string>
+    <string name="edt_YourQuiries">Your Queries</string>
+
+    //::::::::::::::::::::::: Paid Income Tax Refund Status ::::::::::::::::::::::::::::
+    <string name="text_checkYourIncomeTax">Check Your Income Tax Refund Status:Accurate &amp; Latest</string>
+    <string name="text_IncomeTaxRefundStatus">Income Tax Refund Status</string>
+    <string name="text_ParmanentAccountNumber">Parmanent Account Number (PAN)</string>
+    <string name="edt_ParmanentAccountNumber">Parmanent Account Number (PAN)</string>
+    <string name="text_EmailAdd">Email Address</string>
+    <string name="edt_EmailAdd">Email Address</string>
+
+    <string name="text_AcknowledgementNumber">Acknowledgement Number(optional)</string>
+    <string name="edt_AcknowledgementNumber">Acknowledgement Number(optional)</string>
+    <string name="text_Assessmentyear">Assessment year to check refund status for(optional)</string>
+    <string name="edt_Assessmentyear">Assessment year to check refund status for</string>
+    <string name="text_showmeRefundStatus">Show me refund status</string>
+    <string name="text_IncomeTaxDepartmentSay">Income Tax Department Says :</string>
+    <string name="text_IncomeTax">Checking the online refund status is always good </string>
+    <string name="text_PleaseNote">Please Note:</string>
+    <string name="text_PleaseNoteVlaues">Refund status of income tax return that have been field this year, must be update in the income tax department systems. You can cahek the latest status of tax refund by using this utility. Use the tools &amp; check refund status now!</string>
+    <string name="text_socilathink">If you think your friend/network would find this useful,please share it with them-We\'d really appreciate it.</string>
+
+    //::::::::::::::::: Income Tax Calculator for Current Financial Year ::::::::::::::::::::
+
+    <string name="text_TaxCalculatorFinancialYear">Income Tax Calculator for Current Financial Year</string>
+    <string name="text_YourSelf">Your Self<font fgcolor="red"> *</font></string>
+    <string name="edt_YourSelf">Your Self</string>
+    <string name="text_DateOfBirth">Date Of Birth<font fgcolor="red"> *</font></string>
+    <string name="edt_DateOfBirth">Date Of Birth</string>
+    <string name="text_Citizenship">Citizenship <font fgcolor="red"> *</font></string>
+    <string name="edt_Citizenship">Citizenship</string>
+
+    //::::::::::::::::::::::: Payment Hrx Tax Calculator ::::::::::::::::::::::::::::
+    <string name="text_HRATaxCalculator">HRA Tax Calculator</string>
+    <string name="text_Dearnessallowance">Basic + Dearness allowance Received</string>
+    <string name="edt_BasicDearnessallowance">Basic + Dearness allowance Received</string>
+    <string name="text_HRAReceived">HRA Received</string>
+    <string name="edt_HRAReceived">HRA Received</string>
+    <string name="text_TotalRentPaid">Total Rent Paid (Yearly)</string>
+    <string name="edt_TotalRentPaid">Total Rent Paid (Yearly)</string>
+    <string name="text_metrocity">Do you live in metro city?</string>
+    <string name="text_Yes">Yes</string>
+    <string name="text_No">No</string>
+    <string name="text_MobileNumber">Mobile Number</string>
+    <string name="edt_MobileNumber">Mobile Number</string>
+    <string name="Button_submit">Submit</string>
+
+
+    //::::::::::::::::::::::: Ca Assited Tax Filling ::::::::::::::::::::::::::::
+    <string name="text_FreeFilling">FREE FILING</string>
+    <string name="textFree">Free</string>
+    <string name="text_freeIncludeTitleValues">Free Includes</string>
+    <string name="text_SalaryPensionValue">Salary/Pension Rs. 2,50,000</string>
+    <string name="text_DeductionsValue">Deductions</string>
+    <string name="text_TDSfromSalaryValue">TDS from Salary</string>
+    <string name="text_BASICFILING">BASIC FILING</string>
+    <string name="text_basicValues">Basic</string>
+    <string name="text_BasicincludesValues">Basic includes</string>
+
+    <string name="text_BasicEverythinginFreeTitle">Basic</string>
+    <string name="text_BasicEverythinginFreeValues">Everything in Free, and</string>
+    <string name="text_text_basicSalaryPensionTitVal">Salary/Pension (Rs.2,50,000 to Rs.5,00,000)</string>
+    <string name="text_StandardVal">Standard</string>
+    <string name="text_StandardincludesValues">Standard includes</string>
+    <string name="text_BasicincludesValues1">Basic includes</string>
+    <string name="text_EverythinginVal">Everything in Basic, and:</string>
+    <string name="text_StandSalaryPension">Salary/Pension (Rs.5,00,000 to Rs.10,00,000)</string>
+    <string name="text_HouseProperty1">House Property</string>
+    <string name="text_ADVANCEFILING">ADVANCE FILING</string>
+    <string name="text_Eliteincludes">Elite includes</string>
+    <string name="text_EverythingStandard">Everything in Standard, and:</string>
+    <string name="text_SalaryPension1">Salary/Pension (more than Rs.10,00,000)</string>
+
+    <string name="text_HouseProperty2">House Property (more than 1)</string>
+    <string name="text_OtherSource">Other Source (Other than Bank Interest)</string>
+    <string name="text_FOREIGNFILING">FOREIGN FILING</string>
+    <string name="text_Foreignincludes">Foreign includes</string>
+    <string name="text_EverythingElite">Everything in Elite, and:</string>
+    <string name="text_ForeignAssets">Foreign Assets</string>
+    <string name="text_Relief">Relief u/s 90 / 91</string>
+    <string name="text_PROFESSIONALFILING">PROFESSIONAL FILING</string>
+    <string name="text_Professionalincludes">Professional includes</string>
+    <string name="text_EverythingForeign">Everything in Foreign, and:</string>
+    <string name="text_ProfessionIncome">Profession Income</string>
+    <string name="text_BusinessIncome">Business Income</string>
+</resources>
